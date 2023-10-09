@@ -1,0 +1,54 @@
+html, body {
+    overflow-x: hidden;
+}
+
+body {
+    background: url('/ProjetoMensal/img/bgimg.jpg');
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    background-size: cover;
+    backdrop-filter: blur(8px);
+    justify-content: center;
+    font-family: 'Monsterrat', sans-serif;
+    position: relative;
+    padding: 2rem 0;
+}
+
+h2{
+    text-align: center;
+    padding-bottom: 4%;
+}
+
+.txtreserva{
+    margin: 0px;
+    padding: 0px;
+}
+
+.hrefpadrao{
+    color: black;
+    text-decoration: none;
+}
+.hrefsublinhado{
+    color: black;
+}
+
+.imgavaliacao{
+    width: 100%;
+    height: 85px;
+}
+
+.btnpad{
+    padding-top: 4%;
+}
+
+.aligntxt{
+    text-align: center;
+    margin-top: 2%;
+}
+
+.landing{
+    text-align: center;
+    padding-top: 20px;
+    color: black;
+}
